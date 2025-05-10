@@ -13,4 +13,4 @@ Clean and modern design using only HTML and CSS
 Easy to customize and expand
 
 🚀 Live Demo
-View Website (replace with your link)
+View Website [https://spaulraj234.github.io/portfolio-simple-website/]
